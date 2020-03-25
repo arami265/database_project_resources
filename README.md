@@ -5,6 +5,7 @@ Hey guys, since Chen stressed the importance of the project I wanted to drop som
 
 Also, feel free to send any suggestions for additions to this page via Discord =)
 Once we get Git up and running, we'll be able to collaborate on code/whatever easier.
+
 ---
 ## Main idea / goal
 We want to build a **functioning mobile app/website** that can host our home services app.
